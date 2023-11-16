@@ -1,0 +1,7 @@
+alias shave='clear && neofetch'
+alias weather='curl wttr.in/St.Louis'
+alias shellrefresh='. ~/.bashrc'
+alias ..='cd ..'
+alias :q='exit'
+alias into='cd $(la)'
+alias aliases='nvim ~/.bash_aliases'
